@@ -9,7 +9,7 @@ Feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/brandon
 ### ML Playground
 This app allows for users to experiment with different health measurements, such as blood glucose levels and BMI.  Selecting different values for these measurements filters patient data, visualizing similar matches. These values are then used to generate a prediction as to whether or not a patient would have a positive diabetes diagnosis.
 
-![Classification Interface Screenshot](https://github.com/bkdevart/ML-Playground/blob/main/screenshots/main_screen.png)
+![Classification Interface Screenshot](screenshots/ml_playground/ml_playground_screens.png)
 
 #### Things I learned
 
