@@ -1,4 +1,9 @@
-## Hi there 👋
+## About 👋
+Hi!  I'm Brandon, and I have a professional background in data analytics.  In recent years, I've become drawn to iOS development. 
+
+I am currently merging data with mobile apps, creating ML models that run on the phone and physics simluations that represent data.
+
+Feel free to reach out to me over [LinkedIn](https://www.linkedin.com/in/brandon-knox-cs/)
 
 <!--
 **bkdevart/bkdevart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
