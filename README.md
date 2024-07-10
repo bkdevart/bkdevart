@@ -1,5 +1,5 @@
 ## About 👋
-Hi!  I'm Brandon, and I have a professional background in data analytics.  In recent years, I've become drawn to iOS development. 
+Hi!  I'm Brandon, and I have a professional background working and teaching data analytics.  In recent years, I've become drawn to iOS development. 
 
 I am currently interested in merging data with mobile apps, creating ML models that run on the phone and physics simluations that represent data.
 
