@@ -12,7 +12,6 @@ This app allows for users to experiment with different health measurements, such
 ![Classification Interface Screenshot](screenshots/ml_playground/ml_playground_screens_framed.png)
 
 #### Things I learned
-
 1. How ML models be adapted to run on the iPhone
 	- Apple's Core ML tools library is an excellent way to transition Python models to iOS
 1. Intuitive ways of interacting with ML models on mobile
@@ -28,10 +27,17 @@ I also have an article diving into the specifics of this app [here](https://medi
 
 
 ### Physics iOS
+An interactive setting to test newtonian physics. Handles various shapes and text, and includes a paint mode for creating illustrations from shapes.
 
 ![Classification Interface Screenshot](screenshots/physicsiOS/physics_ios_screens@0.5x.png)
 
-### Physics Charts
+#### Things I learned
+1. How SpriteKit can be utilized to simulate physics and shapes
+1. How to customize interface views to meet design needs
+1. Computational tricks to match colors and integrate into UI design
+
+#### Technologies I used
+- SwiftUI, SpriteKit
 
 
 
